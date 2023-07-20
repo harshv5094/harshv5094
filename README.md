@@ -2,7 +2,7 @@
 
 My name is Harsh. I'm a tech geek who loves to learn something new about anything. My hometown is in India, and I'm a guy who is passionate about music. I joined GitHub in the year 2017, and from then onwards it's been a great experience being with the community.
 
-I'm still learning a lot from this community. I hope that I'll continue to follow this path.
+I'm still learning a lot from GitHub community.
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshv1741&show_icons=true)
 
