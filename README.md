@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🌱 I’m currently learning:
+🌱 **I’m currently learning:** <br>
 MERN Stack and Redux
 
 
