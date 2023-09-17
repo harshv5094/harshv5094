@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Harsh. I'm a tech geek who loves to learn something new about anything. My hometown is in India, and I'm a guy who is passionate about music. I joined GitHub in the year 2017, and from then onwards it's been a great experience being with the community.
+🌱 I’m currently learning:
+MERN Stack and Redux
 
-I'm still learning a lot from GitHub community.
+
 
 ## 🌐 Social Media
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harshv5094) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshv5094) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshv5094)
