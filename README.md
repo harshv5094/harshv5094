@@ -1,7 +1,11 @@
 # Hi there 👋
 
 🌱 **I’m currently learning:** <br>
-MERN Stack and Redux
+- React
+- MongoDB
+- ExporessJS
+- NodeJS
+- Redux
 
 
 
