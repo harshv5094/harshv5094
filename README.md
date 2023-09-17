@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- ### **🔭 I’m currently working on **
+- ### **🔭 I’m currently working on**
   MongoDB, ExpressJS
 
 - ### 🌱 **I’m currently learning:** <br>
