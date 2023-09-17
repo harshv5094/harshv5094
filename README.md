@@ -1,15 +1,10 @@
 # Hi there 👋
 
-### **🔭 I’m currently working on **
-- MongoDB
-- ExpressJS
+- ### **🔭 I’m currently working on **
+  MongoDB, ExpressJS
 
-### 🌱 **I’m currently learning:** <br>
-- React
-- MongoDB
-- ExporessJS
-- NodeJS
-- Redux
+- ### 🌱 **I’m currently learning:** <br>
+  React, MongoDB, ExporessJS, NodeJS, Redux
 
 
 
