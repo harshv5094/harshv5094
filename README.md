@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🌱 **I’m currently learning:** <br>
+### 🌱 **I’m currently learning:** <br>
 - React
 - MongoDB
 - ExporessJS
