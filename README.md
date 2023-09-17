@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- MongoDB, ExpressJS, and Redux.<br><br>🌱 I’m currently learning<br>- Reactjs, MongoDB, NodeJS, ExpressJS.<br><br>💬 Ask me about<br>- Linux, JavaScript, ReactJS.<br><br>⚡ Fun fact<br>- My favorite Operating System is openSUSE-Tumbleweed.<br>- I love to read books.<br>- I’m a huge fan of Bollywood retro songs.<br>
+🔭 I’m currently working on<br>
+- MongoDB, ExpressJS, and Redux.
+<br><br>
+🌱 I’m currently learning<br>
+- Reactjs, MongoDB, NodeJS, ExpressJS.
+<br><br>
+💬 Ask me about<br>
+- Linux, JavaScript, ReactJS.
+<br><br>
+⚡ Fun fact<br>
+- My favorite Operating System is openSUSE-Tumbleweed.
+- I love to read books.
+- I’m a huge fan of Bollywood retro songs.
 
 
 ## 🌐 Socials:
