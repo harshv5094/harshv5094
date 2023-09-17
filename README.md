@@ -1,18 +1,18 @@
 # 💫 About Me:
 
-###🔭 I’m currently working on
+🔭 I’m currently working on
 - MongoDB, ExpressJS, and Redux.
 <br><br>
 
-###🌱 I’m currently learning
+🌱 I’m currently learning
 - Reactjs, MongoDB, NodeJS, ExpressJS.
 <br>
 
-###💬 Ask me about
+💬 Ask me about
 - Linux, JavaScript, ReactJS.
 <br><br>
 
-###⚡ Fun fact
+⚡ Fun fact
 - My favorite Operating System is openSUSE-Tumbleweed.
 - I love to read books.
 - I’m a huge fan of Bollywood retro songs.
