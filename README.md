@@ -1,4 +1,4 @@
-# Hi there 👋
+# Namaste 🙏
 
 My name is Harsh Vyapari, I'm a computer nerd who is also a die hard fan of Linux and Neovim.
 
