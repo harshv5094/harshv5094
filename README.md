@@ -3,7 +3,7 @@
 My name is Harsh Vyapari, I'm a computer nerd who is also a die hard fan of Linux and Neovim.
 
 ## What I'm doing?
-- Studying C and C++
+- Studying
 
 ## Contact Me
 - Website: Work In Progress <!--[Click Here](https://harshv5094.vercel.app)-->
