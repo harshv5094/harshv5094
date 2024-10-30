@@ -4,6 +4,7 @@ My name is Harsh Vyapari, I'm a computer nerd who is also a die hard fan of Linu
 
 ## What I'm doing?
 - Restudying C programming language.
+- Trying Doom Emacs
 
 ## What OS I use?
 - Arch Linux (By the Way).
