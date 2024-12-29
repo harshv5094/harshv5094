@@ -6,4 +6,4 @@ My name is Harsh Vyapari. A Computer Under Graduate from India, who loves to exp
 
 [Website](https://harshv5094.netlify.app)
 
-[Mail Me!](mailto:harshv5094@gmail.com)
+[Mail Me!](mailto:harshvy5094@proton.me)
