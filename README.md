@@ -2,8 +2,6 @@
 
 Namaste 🙏, I'm Harsh Vyapari, a Computer Engineering undergraduate from India. I love exploring computers, technology, and everything related! I'm passionate about Linux, FOSS, and customizing my workflow with Neovim. Also, a big anime fan! Always curious to learn, experiment, and build cool stuff.
 
-![Website Status Badge](https://img.shields.io/website?url=https%3A%2F%2Fharshv5094.netlify.app)
-
 ## Connect with me
 
 [Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [Instagram](https://instagram.com/harshv5094) :: [LinkedIn](https://linkedin.com/in/harshv5094)
