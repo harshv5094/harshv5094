@@ -1,6 +1,6 @@
 # Namaste 🙏
 
-Namaste 🙏, I'm Harsh Vyapari, a Computer Engineering undergraduate from India. I love exploring computers, technology, and everything related! I'm passionate about Linux, FOSS, and customizing my workflow with Neovim. Also, a big anime fan! Always curious to learn, experiment, and build cool stuff.
+Namaste 🙏, My name is Harsh Vyapari, a Software Developer from India. I love exploring computers, technology, and everything related! I'm passionate about Linux, FOSS, and customizing my workflow with Neovim. Also, a big anime fan! Always curious to learn, experiment, and build cool stuff.
 
 ## Connect with me
 
