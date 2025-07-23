@@ -8,7 +8,7 @@ Namaste 🙏, My name is Harsh Vyapari, a Software Developer from India. I love 
 
 [harshvy5094@proton.me](mailto:harshvy5094@proton.me)
 
-Public RSA sign key: [`525F AC3D 751C F169 E31C 0E43 A897 C10C 48C4 E722`](https://raw.githubusercontent.com/harshv5094/harshv5094/refs/heads/main/git-sign-rsa-public.asc)
+Public RSA sign key: [`525F AC3D 751C F169 E31C 0E43 A897 C10C 48C4 E722`](https://raw.githubusercontent.com/harshv5094/harshv5094/refs/heads/main/git-sign-public.asc)
 
 ## 📈 GitHub Stats
 
