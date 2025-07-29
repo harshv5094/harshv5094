@@ -7,46 +7,55 @@
 KEY_TYPE="$1"
 EMAIL="$2"
 
-# If only email is given, shift the parameters
+# Shift args if only email is passed
 if [ -z "$EMAIL" ]; then
   EMAIL="$KEY_TYPE"
   KEY_TYPE="both"
 fi
 
-# Validate email
+# Validate
 if [ -z "$EMAIL" ]; then
   printf "%s\n" "❌ Usage: sh setup_ssh_keys.sh [github|gitlab] your_email@example.com"
   exit 1
 fi
 
-# Paths
+# Setup
 SSH_DIR="$HOME/.ssh"
 GITHUB_KEY="id_github"
 GITLAB_KEY="id_gitlab"
+CONFIG_FILE="$SSH_DIR/config"
 
 mkdir -p "$SSH_DIR"
 chmod 700 "$SSH_DIR"
 cd "$SSH_DIR" || exit 1
 
-# GitHub key
+# --- GitHub Key ---
 if [ "$KEY_TYPE" = "github" ] || [ "$KEY_TYPE" = "both" ]; then
-  printf "%s\n" "🔑 Generating SSH key for GitHub..."
-  ssh-keygen -t ed25519 -f "$GITHUB_KEY" -C "$EMAIL" -N ""
-  cp "$GITHUB_KEY.pub" "$GITHUB_KEY.pub.txt"
+  if [ ! -f "$GITHUB_KEY" ]; then
+    printf "%s\n" "🔑 Generating SSH key for GitHub..."
+    ssh-keygen -t ed25519 -f "$GITHUB_KEY" -C "$EMAIL" -N ""
+  else
+    printf "⚠️  GitHub key already exists at %s — skipping.\n" "$SSH_DIR/$GITHUB_KEY"
+  fi
 fi
 
-# GitLab key
+# --- GitLab Key ---
 if [ "$KEY_TYPE" = "gitlab" ] || [ "$KEY_TYPE" = "both" ]; then
-  printf "%s\n" "🔑 Generating SSH key for GitLab..."
-  ssh-keygen -t ed25519 -f "$GITLAB_KEY" -C "$EMAIL" -N ""
-  cp "$GITLAB_KEY.pub" "$GITLAB_KEY.pub.txt"
+  if [ ! -f "$GITLAB_KEY" ]; then
+    printf "%s\n" "🔑 Generating SSH key for GitLab..."
+    ssh-keygen -t ed25519 -f "$GITLAB_KEY" -C "$EMAIL" -N ""
+  else
+    printf "⚠️  GitLab key already exists at %s — skipping.\n" "$SSH_DIR/$GITLAB_KEY"
+  fi
 fi
 
-# Write SSH config
-printf "%s\n" "⚙️ Writing SSH config..."
-: >"$SSH_DIR/config" # empty the config file
+# --- SSH Config Updates ---
+touch "$CONFIG_FILE"
+chmod 600 "$CONFIG_FILE"
 
-if [ -f "$GITHUB_KEY" ]; then
+# Add GitHub config if missing
+if [ -f "$GITHUB_KEY" ] && ! grep -q "Host github.com" "$CONFIG_FILE"; then
+  printf "%s\n" "🔧 Adding GitHub SSH config..."
   {
     printf "%s\n" "Host github.com"
     printf "%s\n" "  HostName github.com"
@@ -54,26 +63,24 @@ if [ -f "$GITHUB_KEY" ]; then
     printf "  IdentityFile %s/%s\n" "$SSH_DIR" "$GITHUB_KEY"
     printf "%s\n" "  IdentitiesOnly yes"
     printf "\n"
-  } >>"$SSH_DIR/config"
+  } >>"$CONFIG_FILE"
 fi
 
-if [ -f "$GITLAB_KEY" ]; then
+# Add GitLab config if missing
+if [ -f "$GITLAB_KEY" ] && ! grep -q "Host gitlab.com" "$CONFIG_FILE"; then
+  printf "%s\n" "🔧 Adding GitLab SSH config..."
   {
     printf "%s\n" "Host gitlab.com"
     printf "%s\n" "  HostName gitlab.com"
     printf "%s\n" "  User git"
     printf "  IdentityFile %s/%s\n" "$SSH_DIR" "$GITLAB_KEY"
     printf "%s\n" "  IdentitiesOnly yes"
-  } >>"$SSH_DIR/config"
+    printf "\n"
+  } >>"$CONFIG_FILE"
 fi
 
-chmod 600 "$SSH_DIR/config"
-
-# Summary
-printf "\n%s\n" "✅ SSH keys generated and config created."
-if [ -f "$GITHUB_KEY.pub.txt" ]; then
-  printf "📎 %s\n" "$SSH_DIR/$GITHUB_KEY.pub.txt (GitHub)"
-fi
-if [ -f "$GITLAB_KEY.pub.txt" ]; then
-  printf "📎 %s\n" "$SSH_DIR/$GITLAB_KEY.pub.txt (GitLab)"
-fi
+# --- Summary ---
+printf "\n✅ SSH setup complete.\n"
+printf "📎 To copy your public key(s), run:\n"
+[ -f "$GITHUB_KEY.pub" ] && printf "   • cat %s/%s.pub (GitHub)\n" "$SSH_DIR" "$GITHUB_KEY"
+[ -f "$GITLAB_KEY.pub" ] && printf "   • cat %s/%s.pub (GitLab)\n" "$SSH_DIR" "$GITLAB_KEY"
