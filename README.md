@@ -12,6 +12,6 @@ Public RSA sign key: [`525F AC3D 751C F169 E31C 0E43 A897 C10C 48C4 E722`](https
 
 ## 📈 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshv5094&show_icons=true&rank_icon=github&theme=tokyonight)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshv5094&show_icons=true&rank_icon=github&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshv5094&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshv5094&layout=compact&theme=gruvbox)
