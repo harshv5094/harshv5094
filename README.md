@@ -1,4 +1,4 @@
-Namaste 🙏, My name is Harsh Vyapari, a Software Developer from India. I love exploring computers, technology, and everything related! I'm passionate about Linux, FOSS, and customizing my workflow. Also, a big anime fan! Always curious to learn, experiment, and build cool stuff.
+Namaste 🙏
 
 [Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [LinkedIn](https://linkedin.com/in/harshv5094) :: [Website](https://harshv5094.github.io)
 
