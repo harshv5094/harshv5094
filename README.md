@@ -1,5 +1,13 @@
 Namaste 🙏
 
+My name is Harsh Vyapari. I'm a computer nerd who just loves foss.
+
+#### **What I do?**
+
+- I work on [`linutil`](https://github.com/ChrisTitusTech/linutil) on my free time, I also co-maintain `aur` packages for this project.
+
+#### **Connect with me**
+
 [Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [LinkedIn](https://linkedin.com/in/harshv5094) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org)
 
 [harshvy5094@proton.me](mailto:harshvy5094@proton.me)
