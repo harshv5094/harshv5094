@@ -1,4 +1,4 @@
-amaste 🙏
+Namaste 🙏
 
 My name is Harsh Vyapari. I'm a computer nerd who just loves foss.
 
