@@ -1,10 +1,10 @@
-Namaste 🙏
+amaste 🙏
 
 My name is Harsh Vyapari. I'm a computer nerd who just loves foss.
 
 #### **What I do?**
 
-- I work on [`linutil`](https://github.com/ChrisTitusTech/linutil) on my free time, I also co-maintain `aur` packages for this project.
+- I work on [`linutil`](https://github.com/ChrisTitusTech/linutil) on my free time, I'm also co-maintainer of aur packages of this project.
 
 #### **Connect with me**
 
