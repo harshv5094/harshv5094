@@ -1,6 +1,6 @@
-Namaste 🙏
+#### Who am I?
 
-My name is Harsh Vyapari. I'm a computer nerd who just loves foss.
+Namaste 🙏, My name is Harsh Vyapari. I'm a computer nerd who just loves foss.
 
 #### **What I do?**
 
