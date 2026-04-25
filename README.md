@@ -1,6 +1,6 @@
 #### Who am I?
 
-Namaste 🙏, My name is Harsh Vyapari. I'm a computer nerd who just loves computer and linux.
+Namaste 🙏, My name is Harsh Vyapari. I'm a computer nerd who just loves linux.
 
 Here is a short haiku:<br/>
 The grass is so green.<br/>
