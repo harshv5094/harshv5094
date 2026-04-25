@@ -2,10 +2,10 @@
 
 Namaste 🙏, My name is Harsh Vyapari. I'm a computer nerd who just loves computer and linux.
 
-Here is a short haiku:
-The grass is so green. 
-The sky is a lovely blue. 
-Linux broke again.
+Here is a short haiku:<br/>
+The grass is so green.<br/>
+The sky is a lovely blue.<br/>
+Linux broke again.<br/>
 
 #### **What I do?**
 
