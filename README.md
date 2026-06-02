@@ -11,7 +11,7 @@ Linux broke again.<br/>
 
 - I work on [`linutil`](https://github.com/ChrisTitusTech/linutil) on my free time, I'm also co-maintain their aur packages.
 
-[Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [LinkedIn](https://linkedin.com/in/harshv5094) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org)::[Mastodon](https://mastodon.social/@harshv5094)
+[Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [LinkedIn](https://linkedin.com/in/harshv5094) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org) :: [Mastodon](https://mastodon.social/@harshv5094)
 
 [harshvy5094@proton.me](mailto:harshvy5094@proton.me)
 
