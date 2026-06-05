@@ -1,5 +1,3 @@
-#### Who am I?
-
 Namaste 🙏, My name is Harsh Vyapari. I'm a computer nerd who just loves linux.
 
 Here is a short haiku:<br/>
@@ -7,11 +5,9 @@ The grass is so green.<br/>
 The sky is a lovely blue.<br/>
 Linux broke again.<br/>
 
-#### **What I do?**
-
 - I work on [`linutil`](https://github.com/ChrisTitusTech/linutil) on my free time, I'm also co-maintain their aur packages.
 
-[Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [LinkedIn](https://linkedin.com/in/harshv5094) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org) :: [Mastodon](https://mastodon.social/@harshv5094) :: [Twitter](https://twitter.com/harshv5094)
+[Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [LinkedIn](https://linkedin.com/in/harshv5094) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org) :: [Twitter](https://twitter.com/harshv5094)
 
 [harshvy5094@proton.me](mailto:harshvy5094@proton.me)
 
