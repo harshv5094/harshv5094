@@ -1,11 +1,14 @@
-Namaste 🙏, My name is Harsh Vyapari. I'm a computer nerd who just loves linux.
+# Namaste 🙏
 
-Here is a short haiku:<br/>
-The grass is so green.<br/>
-The sky is a lovely blue.<br/>
-Linux broke again.<br/>
+My name is Harsh Vyapari. I'm just a simple computer nerd who loves FOSS and open source. My favorite OS is [archlinux](https://archlinux.org) with my [hyprland](https://hypr.land) config combined.
 
-- I work on [`linutil`](https://github.com/ChrisTitusTech/linutil) on my free time, I'm also co-maintain their aur packages.
+Some of the things I've done as open source contributor is written below:
+
+- I work on [linutil](https://github.com/ChrisTitusTech/linutil) as a contributor on my free time. I'm also responsible for maintaining their [aur](https://repology.org/project/linutil/versions) packages.
+
+I go by my alias `harshv5094` on the internet.
+
+## Contact
 
 [Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [LinkedIn](https://linkedin.com/in/harshv5094) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org) :: [Twitter](https://twitter.com/harshv5094)
 
