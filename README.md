@@ -5,6 +5,7 @@ My name is Harsh Vyapari. I'm just a simple computer nerd who loves FOSS and ope
 Some of the things I've done as open source contributor is written below:
 
 - I work on [linutil](https://github.com/ChrisTitusTech/linutil) as a contributor on my free time. I'm also responsible for maintaining their [aur](https://repology.org/project/linutil/versions) packages.
+- I also contributed in migration of [hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) to `v0.160.0` and above. You can see them [here](https://github.com/hugo-sid/hugo-blog-awesome/pulls?q=is%3Apr+author%3Aharshv5094)
 
 I go by my alias `harshv5094` on the internet.
 
