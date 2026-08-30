@@ -1,6 +1,6 @@
 # Namaste 🙏
 
-My name is Harsh Vyapari. I'm just a simple computer nerd who loves FOSS and open source. My favorite OS is [archlinux](https://archlinux.org) with my [hyprland](https://hypr.land) config combined.
+My name is Harsh Vyapari. I'm just a simple computer nerd who loves FOSS and open source.
 
 Some of the things I've done as open source contributor is written below:
 
