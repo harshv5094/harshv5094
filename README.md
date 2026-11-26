@@ -12,7 +12,7 @@ I go by my alias `harshv5094` on the internet.
 
 ## Contact
 
-[Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org) :: [Twitter](https://twitter.com/harshv5094)
+[Bluesky](https://bsky.app/profile/harshv5094.bsky.social) :: [Website](https://harshv5094.github.io) :: [Matrix](https://matrix.to/#/@harshv5094:matrix.org)
 
 [harshv5094@gmail.com](mailto:harshv5094@gmail.com)
 
